@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Soufiane_repo/static/css/main.42824e87.css",
+    "main.js": "/Soufiane_repo/static/js/main.2f84acee.js",
+    "static/js/787.545aecf5.chunk.js": "/Soufiane_repo/static/js/787.545aecf5.chunk.js",
+    "static/media/image.png": "/Soufiane_repo/static/media/image.cb824d8151f6882f42ca.png",
+    "index.html": "/Soufiane_repo/index.html",
+    "main.42824e87.css.map": "/Soufiane_repo/static/css/main.42824e87.css.map",
+    "main.2f84acee.js.map": "/Soufiane_repo/static/js/main.2f84acee.js.map",
+    "787.545aecf5.chunk.js.map": "/Soufiane_repo/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42824e87.css",
+    "static/js/main.2f84acee.js"
+  ]
+}
