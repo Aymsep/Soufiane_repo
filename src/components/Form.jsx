@@ -36,10 +36,23 @@ const Form = () => {
          value={formData.Categorie}
          onChange={handleChange}
           >
-          <option value=""></option>
-          <option value="male">Male</option>
-          <option value="female">Female</option>
-          <option value="other">Other</option>
+          <option value="">Choisir votre categorie</option>
+          <option value="acces-partage">Accès au partage</option>
+          <option value="afficheur">Afficheur</option>
+          <option value="authentification">Authentification</option>
+          <option value="cairh">CAIRH</option>
+          <option value="changement-profil">Changement de profil</option>
+          <option value="creation-session">Création de session</option>
+          <option value="efbi">EFBI</option>
+          <option value="fines">FINES</option>
+          <option value="grc">GRC</option>
+          <option value="intranetcai">Intranet CAI</option>
+          <option value="inventaire">Inventaire</option>
+          <option value="ipcommunicator">IP Communicator</option>
+          <option value="outlook">Outlook</option>
+          <option value="peripherique-pc">Périphérique PC</option>
+          <option value="reseau">Réseau</option>
+          
         </select> <br />
       
         <label >Type  :</label>
@@ -49,10 +62,23 @@ const Form = () => {
          value={formData.Categorie}
          onChange={handleChange}
           >
-          <option value=""></option>
-          <option value="male">Male</option>
-          <option value="female">Female</option>
-          <option value="other">Other</option>
+            <option value="">choisir votre type</option>
+            <option value="creation-compte-nepasrepondre115">Création de compte nepasrepondre115</option>
+            <option value="probleme-configuration">Problème de configuration</option>
+            <option value="probleme-session-outlook">Problème de session Outlook</option>
+            <option value="attribution-droits-acces">Attribution des droits d'accès</option>
+            <option value="afficheur-hs">Afficheur HS</option>
+            <option value="authentification-fines">Authentification FINES</option>
+            <option value="authentification-na">Authentification NA</option>
+            <option value="authentification-wiam">Authentification Wiam</option>
+            <option value="authentification-windows">Authentification WINDOWS</option>
+            <option value="affectation-groupe">Affectation de groupe</option>
+            <option value="changement-profil">Changement de profil</option>
+            <option value="creation-session">Création de session</option>
+            <option value="ca2">ca2</option>
+            <option value="deconnexion">Déconnexion</option>
+            <option value="numero-appel-non-valide">Numéro d'appel n'est pas valide</option>
+         
         </select> 
 
 
@@ -64,9 +90,21 @@ const Form = () => {
          onChange={handleChange}
           >
           <option value=""></option>
-          <option value="male">Male</option>
-          <option value="female">Female</option>
-          <option value="other">Other</option>
+          <option value="">A1</option>
+          <option value="">A2</option>
+          <option value="">A3</option>
+          <option value="">A4</option>
+          <option value="">A5</option>
+          <option value="">A6</option>
+          <option value="">A7</option>
+          <option value="">A8</option>
+          <option value="">B1</option>
+          <option value="">B2</option>
+          <option value="">B3</option>
+          <option value="">B4</option>
+          <option value="">B5</option>
+          <option value="">B6</option>
+         
         </select> 
 
         <label >Extension  :</label>
